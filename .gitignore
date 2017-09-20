@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+include
+sabi.sublime-project
+sabi.sublime-workspace
+superuser.txt
+bin
+lib
+pip-selfcheck.json
+db.sqlite3
+myenv
